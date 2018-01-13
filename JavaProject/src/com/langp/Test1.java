@@ -22,6 +22,7 @@ public class Test1
 		System.out.println(t1.equals(t2)); //false
 		System.out.println(t1.equals(t3)); // false
 		System.out.println(t1.equals(t4)); // true
+		System.out.println("Main Ends");
 		
 	}
 
