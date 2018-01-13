@@ -13,6 +13,7 @@ public class Test1
 
 	public static void main(String[] args)
 	{
+		System.out.println("MAIN START");
 		Test1 t1 = new Test1("pritam", 101);
 		Test1 t2 = new Test1("pooja", 102);
 		Test1 t3 = new Test1("pritam", 101);
